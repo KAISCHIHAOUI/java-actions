@@ -1,0 +1,9 @@
+This is a simple file for java tutorials
+[kais...] This is a simple file
+[kais...] This is for playing with java 8 and higher
+[kais...] DONE!
+[kais...] OK!
+[kais...] ------------------------------------------
+[kais...] PLAY WITH JAVA BY CHIHAOUI KAIS
+[kais...] ------------------------------------------
+
