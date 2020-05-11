@@ -10,7 +10,6 @@ public class StreamReduce {
 	int numbers[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 	String[] strings = {"a", "b", "c", "d", "e","f","g","h"};
 
-
 	/*SUM
 	 * int sum = Arrays.stream(numbers).reduce(0,Integer::sum)
 	 */
@@ -20,7 +19,6 @@ public class StreamReduce {
 		return sum;
 	}
 	
-
 	/* MIN-MAX operation
 	 * int sum = Arrays.stream(numbers).reduce(0,Integer::min)
 	 * int sum = Arrays.stream(numbers).reduce(0,Integer::max)
@@ -35,7 +33,6 @@ public class StreamReduce {
 		int max = Arrays.stream(numbers).reduce(0, (a, b) -> a > b ? a : b);
 		return max;
 	}
-
 	/*
 	 *  java 8 better String join = String.join(" ",strings)
 	 */
