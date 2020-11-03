@@ -16,7 +16,7 @@ public class HttpClientSynchronous {
 	public static void main(String[] args) throws IOException, InterruptedException {
 
 		HttpRequest demoRequest = HttpRequest.newBuilder()
-				.GET().uri(URI.create("https://www.facebook.tn/"))
+				.GET().uri(URI.create("https://www.facebook.tn/get"))
 				.setHeader("User-Agent", "Java 11 HTTPClient new feature ").build();
 
 		HttpResponse<String> response = httpClient.send(demoRequest,HttpResponse.BodyHandlers.ofString());
