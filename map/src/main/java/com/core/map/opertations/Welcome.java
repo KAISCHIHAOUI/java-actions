@@ -23,6 +23,12 @@ public class Welcome {
 		List<Integer> list = new Reverselist();
 		list.addAll(after);
 		System.out.println("Reverse list :" + list);
+		
+		//
+
+		
+		
+		
 
 	}
 	

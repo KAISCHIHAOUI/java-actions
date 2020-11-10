@@ -23,6 +23,6 @@ public class Iterators {
 	        Iterable<Integer> iterable3 = () -> Arrays.stream(table)
 	                                                .iterator();
 	 
-	        iterable3.forEach(System.out::println);
+	        iterable3.forEach(System.out::println); 
 	    }
 }

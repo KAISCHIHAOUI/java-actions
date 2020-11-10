@@ -1,5 +1,8 @@
+com/map/groupby/Item.class
 com/core/map/opertations/Iterators.class
 com/core/map/opertations/Welcome.class
+com/core/map/opertations/Conditionalifelse.class
 com/core/map/opertations/Reverselist$1.class
+com/map/groupby/Classification.class
 com/core/map/opertations/Reverselist.class
 com/core/map/opertations/Iteratemap.class
