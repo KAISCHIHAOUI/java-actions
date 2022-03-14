@@ -4,14 +4,6 @@
   <artifactId>tp1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>TP1</name>
-  
-  <dependencies>
-  
-  
-  
-  
-  
-  </dependencies>
 <build>
     <plugins>
       <plugin>
